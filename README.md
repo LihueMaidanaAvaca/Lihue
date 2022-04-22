@@ -1,4 +1,4 @@
-Hi there 👋, I'm Lihue Maidana Avaca 🙋‍♀
+Hi there 👋, I'm Lihue Maidana Avaca 
 🔭 I've finished an app for buy and see courses about Technology named Hlearning [Academic Experience]
 🌱 I’m currently learning MongoDB, Mongoose and Material UI.
 🤔 I’m looking for help with my job hunting.
